@@ -6,7 +6,7 @@
 ##### Checking if string is empty
 ```ruby
 "Turing".size == 0
-#true
+#false
 ```
 ```ruby
 "".empty?
